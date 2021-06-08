@@ -1,0 +1,1 @@
+# Graphql Queries for Ruby project
